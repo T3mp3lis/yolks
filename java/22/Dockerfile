@@ -2,7 +2,7 @@ FROM        eclipse-temurin:22-jdk-noble
 
 LABEL       author="Pterodactyl Team" maintainer="support@pterodactyl.io"
 
-LABEL       org.opencontainers.image.source="https://github.com/pterodactyl/yolks"
+LABEL       org.opencontainers.image.source="https://github.com/T3mp3lis/yolks"
 LABEL       org.opencontainers.image.licenses=MIT
 
 # hadolint ignore=DL3015

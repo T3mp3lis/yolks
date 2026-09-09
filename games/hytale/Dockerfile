@@ -24,7 +24,7 @@ FROM 		--platform=$TARGETOS/$TARGETARCH ghcr.io/pterodactyl/yolks:java_25
 
 LABEL       author="William V." maintainer="william.venner@infraly.co"
 
-LABEL       org.opencontainers.image.source="https://github.com/pterodactyl/yolks"
+LABEL       org.opencontainers.image.source="https://github.com/T3mp3lis/yolks"
 LABEL       org.opencontainers.image.licenses=MIT
 
 USER		root
